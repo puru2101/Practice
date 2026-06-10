@@ -5,6 +5,7 @@ public class User {
 	private String Id;
 	private String Name;
 	private String City;
+	private String State;
 	public String getCity() {
 		return City;
 	}
